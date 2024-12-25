@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Corpo del fenicottero -->
+  <path
+    d="M32 12C26 12 22 16 22 20C22 24 26 28 32 28C38 28 42 24 42 20C42 16 38 12 32 12Z"
+    fill="#FF0000"
+  />
+  <!-- Collo e testa -->
+  <path
+    d="M32 12C32 6 36 4 38 4C40 4 42 6 42 8C42 10 40 12 38 12C36 12 34 10 34 10"
+    fill="#FF0000"
+  />
+  <circle cx="38" cy="8" r="2" fill="#000000" />
+  <!-- Becco -->
+  <path
+    d="M40 8L44 10L40 12"
+    stroke="#000000"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Ali -->
+  <path
+    d="M32 28C28 28 24 32 24 36C24 40 28 44 32 44C36 44 40 40 40 36C40 32 36 28 32 28Z"
+    fill="#FF4D4D"
+  />
+  <!-- Gamba in piedi -->
+  <path
+    d="M32 44V60"
+    stroke="#FF0000"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+  <!-- Gamba alzata -->
+  <path
+    d="M32 50C30 50 28 48 28 46C28 44 30 42 32 42"
+    stroke="#FF0000"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+</svg>
